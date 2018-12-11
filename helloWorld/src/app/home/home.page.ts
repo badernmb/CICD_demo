@@ -10,6 +10,7 @@ export class HomePage {
   test: boolean = false;
 
     submit(){
+
       this.test = true;
     }
 }
